@@ -1,0 +1,39 @@
+
+body{
+    background-image: url(clothing-store-pictures-q6083iwtpkbvnirq.jpg);
+        background-repeat: no-repeat;     
+        background-size: cover;             
+        background-position: center center; 
+        background-attachment: fixed;     
+        color: #fff;  
+    }
+.img {
+    display: flex;           
+    justify-content: center;  
+    align-items: center;    
+    width: 100%;            
+    margin: 0 auto;           
+    position: relative;     
+       
+}
+
+.fundo{
+    background-color: rgba(78, 61, 61, 0.527);
+    width: 40%;
+    height: 110%;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 10%;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;         
+    font-size: 16px;
+    background-color: #29357a;   
+    color: white;
+    border: none;
+    border-radius: 5px;          
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}

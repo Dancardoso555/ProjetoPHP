@@ -1,0 +1,38 @@
+
+.main{
+    display: block ;
+    border-radius: 20px;
+    background-color: #9b8679dc;
+ /*    background-color: #35271e49; */
+    width: 80%;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.mainprod{
+    border-radius: 20px;
+    background-color: #9b8679dc;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.loginn{
+    margin-top: 130px;
+    border-radius: 30px;
+    background-color:#9b8679dc;
+    width: 60%;
+    margin-left: 300px;
+    margin-right: 150px;
+    height: 280px;
+
+}
+input[type="submit"][value="conectar"]{
+    width: 10%;
+    color: rgb(0, 0, 0);
+    margin-left: 360px;
+    background-color: rgba(15, 87, 221, 0.192);    
+
+}
